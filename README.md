@@ -10,4 +10,5 @@
     <li>use the reqres.in api for login to achieve this task</li>
     <li>create another component which will display the login status of the user along with the token</li>
     <li>these two components should not share props and the app state should be accessed through the context api</li>
+    <li>these two components should not share props and the app state should be accessed through the context api</li>
   </ul>
